@@ -1,6 +1,4 @@
 __pycache__/
 .pytest_cache/
 logs/
-screenshots/
-reporte.html
 *.png

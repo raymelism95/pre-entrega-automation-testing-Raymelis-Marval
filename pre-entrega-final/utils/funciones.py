@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 URL = "https://www.saucedemo.com/"
 
-USUARIO = "standard_user"
+USUARIO = "standard_use"
 PASSWORD = "secret_sauce"
 
 
